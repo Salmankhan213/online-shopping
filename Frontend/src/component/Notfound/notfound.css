@@ -1,0 +1,16 @@
+.not-found{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgba(68,68,68);
+    min-height: 80vh;
+}
+.not-found h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+.not-found p{
+    font-size: 20px;
+    font-weight: 700;
+}

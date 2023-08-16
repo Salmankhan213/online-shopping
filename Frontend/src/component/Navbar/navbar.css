@@ -1,0 +1,26 @@
+.nav-bar{
+    display: flex;
+    height: 48px;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 30px;
+}
+.nav-bag{
+    display: flex;
+    align-items: center;
+}
+.nav-bar h2{
+    color: white;
+}
+.nav-bag-quantity{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(208, 45, 45);
+    width: 40px;
+    height: 30px;
+    border-radius: 50%;
+    text-decoration: underline;
+    color: rgb(238, 238, 238);
+}
